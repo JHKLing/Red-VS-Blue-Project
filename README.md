@@ -32,16 +32,6 @@ What to Be Aware Of:
 Throughout Day 2, it is important that you take screen shots of each step they complete. These screen shots will be used in their Day 3 Report.
 
 
-Security+ Domains
-This unit covers portions of the following domains on the Security+ exam:
-
-1.0 Attacks, Threats, and Vulnerabilities
-2.0 Architecture and Design
-3.0 Implementation
-4.0 Operations and Incident Response
-
-For more information about these Security+ domains, refer to the following resource: Security+ Exam Objectives
-
 Day 1:
 
 Red Team Vs Blue Team
